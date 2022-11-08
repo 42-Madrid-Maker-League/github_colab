@@ -3,7 +3,7 @@
 ## Official list of contributors
 
 |Member|Login|Hobbies|
-|---|---|---|
+|Leo González Pérez|lgonzal2|leer|
 |Bruno|Bazuara/Sultan|Breaking stuff|
 |Albert|adiaz-lo|Linux|
 |Abdel|M4ntr4r4m4/Ahammoud|making noise|
