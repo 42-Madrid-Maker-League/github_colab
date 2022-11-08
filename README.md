@@ -5,5 +5,6 @@
 |Member|Login|Hobbies|
 |---|---|---|
 |Bruno|Bazuara/Sultan|Breaking stuff|
+|Victoria|vcodrean|Learner|
 
 If you want to become a part of this exclusive club, read the [contributing file](CONTRIBUTING.md)
