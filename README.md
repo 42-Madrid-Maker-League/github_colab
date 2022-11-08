@@ -10,5 +10,6 @@
 |Pablo|pmira-pe/Pablichu|Papear|
 |Vicente|vicgarci|making|
 |Miguel|mvillaes|hey!|
+|Jaime|jlozano-|Electronicsss|
 
 If you want to become a part of this exclusive club, read the [contributing file](CONTRIBUTING.md)
