@@ -11,5 +11,6 @@
 |Vicente|vicgarci|making|
 |Miguel|mvillaes|hey!|
 |Jkutkut|jre-gonz|Generate code!|
+|Jaime|jlozano-|Electronicsss|
 
 If you want to become a part of this exclusive club, read the [contributing file](CONTRIBUTING.md)
