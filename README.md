@@ -11,6 +11,7 @@
 |Pablo|pmira-pe/Pablichu|Papear|
 |Vicente|vicgarci|making|
 |Miguel|mvillaes|hey!|
+|Ivan|iagudo-d|Maker League|
 |Jaime|jlozano-|Electronicsss|
 
 If you want to become a part of this exclusive club, read the [contributing file](CONTRIBUTING.md)
