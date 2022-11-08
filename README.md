@@ -6,8 +6,6 @@
 |---|---|---|
 
 |Bruno|Bazuara/Sultan|Breaking stuff|
-|Pablo|pmira-pe/Pablichu|Papear|
-|Vicente|vicgarci|making|
 |Andrea|afelicia|Sleep|
 
 
