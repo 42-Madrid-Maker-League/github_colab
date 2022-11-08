@@ -43,7 +43,7 @@ Please keep unstructured critique to a minimum. If you have solid ideas you
 want to experiment with, make a fork and see how it works.
 
 We will exclude you from interaction if you insult, demean or harass anyone.
-That is not welcome behaviour.
+That is not welcome behavior.
 if you have any lack of clarity about what might be included in that concept,
 please read their definition. In particular, we don't tolerate behavior that
 excludes people in socially marginalized groups.
@@ -55,7 +55,7 @@ Whether you're a regular contributor or a newcomer, we care about
 making this community a safe place for you and we've got your back.
 
 Likewise any spamming, trolling, flaming, baiting or other attention-stealing
-behaviour is not welcome.
+behavior is not welcome.
 
 # Communication
 
