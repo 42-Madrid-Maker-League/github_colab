@@ -7,6 +7,8 @@
 |Bruno|Bazuara/Sultan|Breaking stuff|
 |Pablo|pmira-pe/Pablichu|Papear|
 |Vicente|vicgarci|making|
+|Miguel|mvillaes|hey!|
 |Andrea|afelicia|dormir|
+
 
 If you want to become a part of this exclusive club, read the [contributing file](CONTRIBUTING.md)
