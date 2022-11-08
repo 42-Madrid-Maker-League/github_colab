@@ -4,6 +4,7 @@
 
 |Member|Login|Hobbies|
 |---|---|---|
+|Pepe|psegura-/NotSirius|Having fun|
 |Bruno|Bazuara/Sultan|Breaking stuff|
 |Albert|adiaz-lo|Linux|
 |Abdel|M4ntr4r4m4/Ahammoud|making noise|
