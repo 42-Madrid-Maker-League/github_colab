@@ -5,5 +5,6 @@
 |Member|Login|Hobbies|
 |---|---|---|
 |Bruno|Bazuara/Sultan|Breaking stuff|
+|Abdel|M4ntr4r4m4/Ahammoud|making noise|
 
 If you want to become a part of this exclusive club, read the [contributing file](CONTRIBUTING.md)
