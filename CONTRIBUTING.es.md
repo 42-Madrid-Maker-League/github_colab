@@ -1,3 +1,5 @@
+**(Traducción realizada de manera automatizada. Puede contener fallos.)**
+
 # Solicitud de contribuciones
 
 Por favor, contribuya a este repositorio si:
