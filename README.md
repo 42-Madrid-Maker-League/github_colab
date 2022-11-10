@@ -12,5 +12,6 @@
 |Vicente|vicgarci|making|
 |Miguel|mvillaes|hey!|
 |Jaime|jlozano-|Electronicsss|
+|Cristina|Crisfern|Dancing|
 
 If you want to become a part of this exclusive club, read the [contributing file](CONTRIBUTING.md)
