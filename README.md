@@ -11,6 +11,7 @@
 |Pablo|pmira-pe/Pablichu|Papear|
 |Vicente|vicgarci|making|
 |Miguel|mvillaes|hey!|
+|Jkutkut|jre-gonz|Generate code!|
 |Jaime|jlozano-|Electronicsss|
 |Cristina|Crisfern|Dancing|
 
