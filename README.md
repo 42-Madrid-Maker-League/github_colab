@@ -14,5 +14,6 @@
 |Jkutkut|jre-gonz|Generate code!|
 |Jaime|jlozano-|Electronicsss|
 |Cristina|Crisfern|Dancing|
+|Ivan|iagudo-d|Codecrafter|
 
 If you want to become a part of this exclusive club, read the [contributing file](CONTRIBUTING.md)
