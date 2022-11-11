@@ -14,5 +14,6 @@
 |Jkutkut|jre-gonz|Generate code!|
 |Jaime|jlozano-|Electronicsss|
 |Cristina|Crisfern|Dancing|
+|Dani|drosell-|Eat Food|
 
 If you want to become a part of this exclusive club, read the [contributing file](CONTRIBUTING.md)
