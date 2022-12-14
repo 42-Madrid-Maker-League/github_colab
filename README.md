@@ -4,6 +4,7 @@
 
 |Member|Login|Hobbies|
 |---|---|---|
+|Andrea|afelicia|dormir|
 |Pepe|psegura-/NotSirius|Having fun|
 |Bruno|Bazuara/Sultan|Breaking stuff|
 |Albert|adiaz-lo|Linux|
@@ -17,5 +18,6 @@
 |Ivan|iagudo-d|Codecrafter|
 |Cristina|cjover-n|Doing git pull requests|
 |Roxy|esettes/iostancu|Don't forget to feed the kitty|
+
 
 If you want to become a part of this exclusive club, read the [contributing file](CONTRIBUTING.md)
